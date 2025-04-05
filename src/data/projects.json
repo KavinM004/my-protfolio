@@ -1,0 +1,26 @@
+[
+  {
+    "title": "My Todos",
+    "imageSrc": "projects/project1.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://todo-list-reminder.netlify.app/",
+    "source": "https://github.com/KavinM004/Todo-Frontend.git"
+  },
+  {
+    "title": "Library Management ",
+    "imageSrc": "projects/project2.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://warm-beijinho-648600.netlify.app/",
+    "source": "https://github.com/KavinM004/Library-Management-System.git"
+  },
+  {
+    "title": "Expense tracker",
+    "imageSrc": "projects/project3.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://expense-tracker-applications.netlify.app/login",
+    "source": "https://github.com/KavinM004/expense-tracker-demo.git"
+  }
+]

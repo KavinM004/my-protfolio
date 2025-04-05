@@ -1,0 +1,24 @@
+[
+  {
+    "role": "Full Stack Developer Intern",
+    "organisation": "GWC DATA.AI",
+    "startDate": "May, 2023",
+    "endDate": "Jun, 2023",
+    "experiences": [
+      "Worked on Website Developement",
+      "Designed user Interfaces"
+    ],
+    "imageSrc": "history/gwc.png"
+  },
+  {
+    "role": "Customer Relationship Manager",
+    "organisation": "Altruist Technologies Private Limited",
+    "startDate": "Feb, 2025",
+    "endDate": "Present",
+    "experiences": [
+      "Working to slove customer issue",
+      "Working for partner 'Bharti Airtel' "
+    ],
+    "imageSrc": "history/altruist.png"
+  }
+]
