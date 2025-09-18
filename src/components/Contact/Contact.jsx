@@ -13,7 +13,17 @@ export const Contact = () => {
       <ul className={styles.links}>
         <li className={styles.link}>
           <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
-          <a href="mailto:karthickkavin004@gmail.com">
+          <a
+            href="#"
+            onClick={(e) => {
+              e.preventDefault();
+              window.open(
+                "https://mail.google.com/mail/?view=cm&fs=1&to=karthickkavin004@gmail.com",
+                "emailWindow",
+                "width=600,height=600,left=200,top=200"
+              );
+            }}
+          >
             karthickkavin004@gmail.com
           </a>
         </li>
