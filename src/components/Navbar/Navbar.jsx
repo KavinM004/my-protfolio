@@ -41,7 +41,11 @@ export const Navbar = () => {
           {/* CV Download Button */}
           <li>
             <a
+<<<<<<< HEAD
               href="https://drive.google.com/file/d/1XC4ouhRHt25ngwxs2SquX1KlJKTJFq6k/view?usp=sharing"
+=======
+              href="https://drive.google.com/file/d/1XC4ouhRHt25ngwxs2SquX1KlJKTJFq6k/view?usp=drive_link"
+>>>>>>> 93fdbb30aeb978795e837436b31b48c5991ac57e
               download
               className={styles.cvButton}
             >
